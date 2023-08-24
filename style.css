@@ -1,0 +1,31 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(./Образец.jpg);
+    background-repeat: no-repeat;
+}
+p{
+    font-family: monospace;
+    line-height: 30px;
+    text-align: left;
+    text-shadow: 1px 1px 1px black;
+}
+#photo{
+    width: 380px;
+    height: 450px;
+    padding-right: 30px;
+    margin-left: 20px;
+}
+.Rezume{
+    color: rgb(255, 255, 255);
+    font-size: 25px;
+    font-weight: 700;
+
+}
+.logo {
+    color:white;
+}
+.iccon{
+    font-size: 4vh;
+    padding-left: 15px;
+}
